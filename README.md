@@ -57,7 +57,7 @@ CREATE TABLE users (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-🔹 STEP 8: Start Node.js App
+🔹 STEP 8: Start Node.js App --->
 node app.js
 
 
