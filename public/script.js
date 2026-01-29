@@ -2,7 +2,7 @@ document.getElementById("userForm").addEventListener("submit", e => {
   e.preventDefault();
 
   const user = {
-    name: name.value,
+    name: fname.value,
     email: email.value,
     age: age.value
   };
