@@ -25,6 +25,9 @@ sudo yum install -y nodejs
 
 git clone https://github.com/NetTech-Trainer/nodeapp.git
 cd nodeapp
+
+
+
 🔹 STEP 5: Install Dependencies
 
 Inside project folder:
